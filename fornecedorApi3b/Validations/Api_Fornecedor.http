@@ -1,0 +1,6 @@
+﻿@fornecedorApi3b_HostAddress = http://localhost:5295
+
+GET {{fornecedorApi3b_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
